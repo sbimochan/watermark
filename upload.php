@@ -1,5 +1,5 @@
 <?php
-//gitplus check 
+//gitplus check 2
 // Access the $_FILES global variable for this specific file being uploaded
 // and create local PHP variables from the $_FILES array of information
 $fileName = $_FILES["uploaded_file"]["name"]; // The file name
